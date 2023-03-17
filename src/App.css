@@ -5,9 +5,9 @@
 }
 
 button {
-  border: 4px solid darkcyan;
-  color: darkcyan;
-  background-color: bisque;
+  border: 4px solid darkmagenta;
+  color: white;
+  background-color: darkmagenta;
   border-radius: 7px;
   cursor: pointer;
   font-weight: bold;
@@ -18,7 +18,8 @@ button {
 }
 
 button:hover {
-  background-color: green;
+  background-color: darkgreen;
+  border: 4px solid darkgreen;
   color: white;
 }
 
@@ -31,10 +32,8 @@ button:hover {
 }
 
 .matchAttempts {
-  color: darkcyan;
-  border: 2px solid darkcyan;
+  color: darkmagenta;
   padding: 4px;
   border-radius: 7px;
-  background-color: bisque;
    width: 100%;
 }
