@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/make-a-match-phase-2/static/css/main.6fa35502.css",
+    "main.css": "/make-a-match-phase-2/static/css/main.7fc815d7.css",
     "main.js": "/make-a-match-phase-2/static/js/main.b1052638.js",
     "static/js/845.a9735cf7.chunk.js": "/make-a-match-phase-2/static/js/845.a9735cf7.chunk.js",
     "static/media/socks.jpg": "/make-a-match-phase-2/static/media/socks.24f9bd64869dc9cd2f2b.jpg",
@@ -13,12 +13,12 @@
     "static/media/correctSound.mp3": "/make-a-match-phase-2/static/media/correctSound.46c8de69b3374dc8b23a.mp3",
     "static/media/incorrectSounds.mp3": "/make-a-match-phase-2/static/media/incorrectSounds.6b2eb1aa1ffcec110107.mp3",
     "index.html": "/make-a-match-phase-2/index.html",
-    "main.6fa35502.css.map": "/make-a-match-phase-2/static/css/main.6fa35502.css.map",
+    "main.7fc815d7.css.map": "/make-a-match-phase-2/static/css/main.7fc815d7.css.map",
     "main.b1052638.js.map": "/make-a-match-phase-2/static/js/main.b1052638.js.map",
     "845.a9735cf7.chunk.js.map": "/make-a-match-phase-2/static/js/845.a9735cf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa35502.css",
+    "static/css/main.7fc815d7.css",
     "static/js/main.b1052638.js"
   ]
 }
